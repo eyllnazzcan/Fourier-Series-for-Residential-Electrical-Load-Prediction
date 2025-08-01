@@ -1,6 +1,6 @@
 # Fourier Series for Residential Electrical Load Prediction
 
-This repository contains the Fourier Series part of a Statistical Learning Theory project focused on predicting residential electrical load**.  
+This repository contains the Fourier Series part of a Statistical Learning Theory project focused on predicting residential electrical load.  
 
 ---
 
@@ -23,7 +23,7 @@ This repository contains the Fourier Series part of a Statistical Learning Theor
 
 These results show that the Fourier Series can effectively capture periodic patterns in the load data.
 
-## Visualized Results
+## Visualized Results for Day 183
 ![](samples/results.jpg)
 ---
 ![](samples/graph.jpg)
